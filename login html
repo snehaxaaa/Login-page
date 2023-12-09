@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Login Form</title>
+	<link href="style1.css" rel="stylesheet">
+</head>
+<body>
+	<div class="form-box">
+		<div class="header-text">
+			Login Form
+		</div><input placeholder="Username" type="text" required>
+ <input placeholder="Password" type="password" required> 
+<span> <a href="forgor.html">Forgotten your password?</a><br><br>
+<button>login</button>
+
+<a href="signup.html"><button>Create account</button></a></span>
+
+</div>
+</body>
+</html>
